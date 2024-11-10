@@ -1,0 +1,12 @@
+# .gitignore
+
+# Binaries
+/proxy-server
+
+# Dependencies
+/vendor/
+
+# Build and cache directories
+/bin/
+/pkg/
+
